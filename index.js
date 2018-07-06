@@ -20,6 +20,18 @@ function divide(a,b)
   
 }
 
+function makeInt(s)
+{
+  var i = parseInt(s)
+  return i;
+}
+
+function preserveDecimal(d)
+{
+  var float = parseFloat(d);
+  return float;
+}
+
 divideby3()
 
 console.log(number)
