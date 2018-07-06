@@ -32,30 +32,12 @@ function preserveDecimal(d)
   return float;
 }
 
-divideby3()
-
-console.log(number)
-
-add5()
-
-console.log(number)
-
-number = 10
-
-add5()
-
-console.log(number)
-
-divideby3()
-
-console.log(number)
-
 function inc(n)
 {
-  n++
+ return n++
 }
 
 function dec(n)
 {
-  n--
+  return n--
 }
