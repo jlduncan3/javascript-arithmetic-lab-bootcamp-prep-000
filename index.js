@@ -1,13 +1,23 @@
 var number = 10
 
-function add5() {
+function add(a,b) {
   number += 5
 
 }
 
-function divideBy3()
+function subtract(a,b)
 {
   number /= 3
+}
+
+function multiply(a,b)
+{
+  
+}
+
+function divide(a,b)
+{
+  
 }
 
 divideby3()
