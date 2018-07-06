@@ -22,7 +22,7 @@ function divide(a,b)
 
 function makeInt(s)
 {
-  var i = parseInt(s)
+  var i = parseInt(s,10)
   return i;
 }
 
