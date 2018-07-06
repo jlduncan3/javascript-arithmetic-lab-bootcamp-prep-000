@@ -34,10 +34,10 @@ function preserveDecimal(d)
 
 function inc(n)
 {
- return n++
+ return ++n
 }
 
 function dec(n)
 {
-  return n--
+  return --n
 }
