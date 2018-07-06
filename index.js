@@ -1,23 +1,23 @@
 var number = 10
 
 function add(a,b) {
-  number += 5
+  return a+b
 
 }
 
 function subtract(a,b)
 {
-  number /= 3
+  return a-b
 }
 
 function multiply(a,b)
 {
-  
+ return a*b 
 }
 
 function divide(a,b)
 {
-  
+  return a/b
 }
 
 function makeInt(s)
